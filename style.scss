@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 200px;
+    height: 50px;
+}
+
+.joy{
+    font-weight: lighter; 
+    color: #00b39b; 
+}
+.up{
+    padding: 20px 250px;
+}
+.chibuzor{
+    padding: 0 250px;
+ 
+}
+
+.c4{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all .2s ease 0s;
+    background-color: #00b39b;
+}
+.c5{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all .2s ease 0s;
+    background-color: #3d83df;
+}
+.c6{
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all .2s ease 0s;
+    background-color: #1b2734;
+
+    a{
+        color: #fff;
+        margin-bottom: 5px;
+    }
+}
+
+.icons {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 0 250px;
+
+}
